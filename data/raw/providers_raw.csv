@@ -1,0 +1,9 @@
+provider_id,provider_name,specialty
+PRV-100,Provider A,Family Medicine
+PRV-101,Provider B,Family Medicine
+PRV-102,Provider C,Pulmonology
+PRV-103,Provider D,Cardiology
+PRV-104,Provider E,Cardiology
+PRV-105,Provider F,Cardiology
+PRV-106,Provider G,Family Medicine
+PRV-107,Provider H,Endocrinology

@@ -1,0 +1,301 @@
+encounter_id,patient_id,provider_id,visit_date,diagnosis_code,diagnosis_desc
+ENC-00001,PT-5037,PRV-106,2025-02-14,E11.9,Type 2 diabetes mellitus without complications
+ENC-00002,PT-5045,PRV-106,2025-04-12,I10,Essential (primary) hypertension
+ENC-00003,PT-5021,PRV-104,2025-08-05,I10,Essential (primary) hypertension
+ENC-00004,PT-5054,PRV-105,2025-07-03,E78.5,"Hyperlipidemia, unspecified"
+ENC-00005,PT-5035,PRV-104,2025-02-10,J06.9,Acute upper respiratory infection
+ENC-00006,PT-5014,PRV-104,2025-12-05,E11.9,Type 2 diabetes mellitus without complications
+ENC-00007,PT-5022,PRV-103,2025-07-09,J06.9,Acute upper respiratory infection
+ENC-00008,PT-5034,PRV-103,2025-03-29,I10,Essential (primary) hypertension
+ENC-00009,PT-5053,PRV-100,2025-06-16,I10,Essential (primary) hypertension
+ENC-00010,PT-5013,PRV-107,2025-06-11,M54.50,"Low back pain, unspecified"
+ENC-00011,PT-5047,PRV-106,2025-05-15,E78.5,"Hyperlipidemia, unspecified"
+ENC-00012,PT-5055,PRV-101,2025-01-25,I10,Essential (primary) hypertension
+ENC-00013,PT-5029,PRV-104,2025-11-02,E78.5,"Hyperlipidemia, unspecified"
+ENC-00014,PT-5049,PRV-105,2025-05-17,E11.9,Type 2 diabetes mellitus without complications
+ENC-00015,PT-5032,PRV-102,2025-05-15,E78.5,"Hyperlipidemia, unspecified"
+ENC-00016,PT-5009,PRV-105,2025-04-12,I10,Essential (primary) hypertension
+ENC-00017,PT-5001,PRV-101,2025-09-08,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00018,PT-5052,PRV-101,2025-09-06,E78.5,"Hyperlipidemia, unspecified"
+ENC-00019,PT-5055,PRV-106,2025-09-28,I10,Essential (primary) hypertension
+ENC-00020,PT-5041,PRV-105,2025-12-10,M54.50,"Low back pain, unspecified"
+ENC-00021,PT-5035,PRV-103,2025-10-29,E78.5,"Hyperlipidemia, unspecified"
+ENC-00022,PT-5055,PRV-105,2025-01-17,E11.9,Type 2 diabetes mellitus without complications
+ENC-00023,PT-5036,PRV-107,2025-10-20,I10,Essential (primary) hypertension
+ENC-00024,PT-5026,PRV-107,2025-08-05,J06.9,Acute upper respiratory infection
+ENC-00025,PT-5051,PRV-101,2025-06-23,I10,Essential (primary) hypertension
+ENC-00026,PT-5015,PRV-101,2025-08-25,M54.50,"Low back pain, unspecified"
+ENC-00027,PT-5010,PRV-106,2025-05-02,M54.50,"Low back pain, unspecified"
+ENC-00028,PT-5024,PRV-104,2025-01-02,M54.50,"Low back pain, unspecified"
+ENC-00029,PT-5009,PRV-103,2025-09-07,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00030,PT-5003,PRV-100,2025-06-10,E78.5,"Hyperlipidemia, unspecified"
+ENC-00031,PT-5004,PRV-101,2025-04-06,J06.9,Acute upper respiratory infection
+ENC-00032,PT-5005,PRV-106,2025-11-14,J06.9,Acute upper respiratory infection
+ENC-00033,PT-5015,PRV-104,2025-06-10,M54.50,"Low back pain, unspecified"
+ENC-00034,PT-5039,PRV-101,2025-08-23,E11.9,Type 2 diabetes mellitus without complications
+ENC-00035,PT-5023,PRV-104,2025-05-06,I10,Essential (primary) hypertension
+ENC-00036,PT-5052,PRV-104,2025-12-08,J06.9,Acute upper respiratory infection
+ENC-00037,PT-5009,PRV-104,2025-10-11,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00038,PT-5016,PRV-100,2025-09-08,E11.9,Type 2 diabetes mellitus without complications
+ENC-00039,PT-5040,PRV-104,2025-03-08,I10,Essential (primary) hypertension
+ENC-00040,PT-5057,PRV-102,2025-12-20,E78.5,"Hyperlipidemia, unspecified"
+ENC-00041,PT-5019,PRV-105,2025-01-22,E11.9,Type 2 diabetes mellitus without complications
+ENC-00042,PT-5056,PRV-106,2025-10-14,E78.5,"Hyperlipidemia, unspecified"
+ENC-00043,PT-5011,PRV-105,2025-01-13,M54.50,"Low back pain, unspecified"
+ENC-00044,PT-5014,PRV-103,2025-08-29,M54.50,"Low back pain, unspecified"
+ENC-00045,PT-5017,PRV-101,2025-06-18,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00046,PT-5007,PRV-104,2025-01-15,I10,Essential (primary) hypertension
+ENC-00047,PT-5046,PRV-105,2025-06-26,M54.50,"Low back pain, unspecified"
+ENC-00048,PT-5002,PRV-106,2025-05-11,E11.9,Type 2 diabetes mellitus without complications
+ENC-00049,PT-5004,PRV-105,2025-08-09,E78.5,"Hyperlipidemia, unspecified"
+ENC-00050,PT-5042,PRV-106,2025-06-08,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00051,PT-5043,PRV-102,2025-07-14,E78.5,"Hyperlipidemia, unspecified"
+ENC-00052,PT-5027,PRV-105,2025-04-18,M54.50,"Low back pain, unspecified"
+ENC-00053,PT-5018,PRV-105,2025-02-13,E11.9,Type 2 diabetes mellitus without complications
+ENC-00054,PT-5015,PRV-107,2025-01-24,E78.5,"Hyperlipidemia, unspecified"
+ENC-00055,PT-5015,PRV-102,2025-07-24,J06.9,Acute upper respiratory infection
+ENC-00056,PT-5033,PRV-107,2025-12-23,E11.9,Type 2 diabetes mellitus without complications
+ENC-00057,PT-5035,PRV-105,2025-09-29,M54.50,"Low back pain, unspecified"
+ENC-00058,PT-5047,PRV-107,2025-03-23,M54.50,"Low back pain, unspecified"
+ENC-00059,PT-5015,PRV-104,2025-11-17,M54.50,"Low back pain, unspecified"
+ENC-00060,PT-5008,PRV-102,2025-02-11,I10,Essential (primary) hypertension
+ENC-00061,PT-5034,PRV-107,2025-06-19,M54.50,"Low back pain, unspecified"
+ENC-00062,PT-5054,PRV-106,2025-01-11,M54.50,"Low back pain, unspecified"
+ENC-00063,PT-5051,PRV-103,2025-10-07,M54.50,"Low back pain, unspecified"
+ENC-00064,PT-5043,PRV-106,2025-12-09,J06.9,Acute upper respiratory infection
+ENC-00065,PT-5037,PRV-100,2025-07-21,E11.9,Type 2 diabetes mellitus without complications
+ENC-00066,PT-5013,PRV-107,2025-06-17,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00067,PT-5030,PRV-100,2025-02-11,J06.9,Acute upper respiratory infection
+ENC-00068,PT-5002,PRV-100,2025-11-30,I10,Essential (primary) hypertension
+ENC-00069,PT-5007,PRV-103,2025-12-09,M54.50,"Low back pain, unspecified"
+ENC-00070,PT-5019,PRV-101,2025-03-25,E78.5,"Hyperlipidemia, unspecified"
+ENC-00071,PT-5004,PRV-103,2025-04-12,E11.9,Type 2 diabetes mellitus without complications
+ENC-00072,PT-5022,PRV-106,2025-01-22,J06.9,Acute upper respiratory infection
+ENC-00073,PT-5006,PRV-106,2025-09-08,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00074,PT-5039,PRV-107,2025-05-19,M54.50,"Low back pain, unspecified"
+ENC-00075,PT-5017,PRV-107,2025-02-14,I10,Essential (primary) hypertension
+ENC-00076,PT-5011,PRV-107,2025-06-16,I10,Essential (primary) hypertension
+ENC-00077,PT-5035,PRV-100,2025-05-22,E78.5,"Hyperlipidemia, unspecified"
+ENC-00078,PT-5041,PRV-107,2025-09-01,M54.50,"Low back pain, unspecified"
+ENC-00079,PT-5023,PRV-107,2025-10-25,E78.5,"Hyperlipidemia, unspecified"
+ENC-00080,PT-5017,PRV-104,2025-08-21,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00081,PT-5011,PRV-103,2025-12-20,I10,Essential (primary) hypertension
+ENC-00082,PT-5006,PRV-103,2025-05-25,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00083,PT-5017,PRV-100,2025-03-06,E11.9,Type 2 diabetes mellitus without complications
+ENC-00084,PT-5036,PRV-104,2025-01-07,M54.50,"Low back pain, unspecified"
+ENC-00085,PT-5007,PRV-101,2025-09-02,M54.50,"Low back pain, unspecified"
+ENC-00086,PT-5019,PRV-101,2025-10-16,I10,Essential (primary) hypertension
+ENC-00087,PT-5024,PRV-107,2025-09-25,M54.50,"Low back pain, unspecified"
+ENC-00088,PT-5047,PRV-101,2025-11-09,I10,Essential (primary) hypertension
+ENC-00089,PT-5010,PRV-100,2025-02-08,M54.50,"Low back pain, unspecified"
+ENC-00090,PT-5018,PRV-107,2025-12-28,E11.9,Type 2 diabetes mellitus without complications
+ENC-00091,PT-5034,PRV-103,2025-02-28,J06.9,Acute upper respiratory infection
+ENC-00092,PT-5038,PRV-104,2025-06-07,M54.50,"Low back pain, unspecified"
+ENC-00093,PT-5031,PRV-107,2025-10-04,E11.9,Type 2 diabetes mellitus without complications
+ENC-00094,PT-5014,PRV-100,2025-02-16,J06.9,Acute upper respiratory infection
+ENC-00095,PT-5037,PRV-106,2025-04-03,J06.9,Acute upper respiratory infection
+ENC-00096,PT-5006,PRV-102,2025-12-10,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00097,PT-5002,PRV-107,2025-10-09,E11.9,Type 2 diabetes mellitus without complications
+ENC-00098,PT-5052,PRV-100,2025-09-21,J06.9,Acute upper respiratory infection
+ENC-00099,PT-5040,PRV-107,2025-09-13,E11.9,Type 2 diabetes mellitus without complications
+ENC-00100,PT-5007,PRV-100,2025-09-06,J06.9,Acute upper respiratory infection
+ENC-00101,PT-5026,PRV-101,2025-10-10,I10,Essential (primary) hypertension
+ENC-00102,PT-5032,PRV-104,2025-05-30,M54.50,"Low back pain, unspecified"
+ENC-00103,PT-5058,PRV-102,2025-04-08,E11.9,Type 2 diabetes mellitus without complications
+ENC-00104,PT-5018,PRV-104,2025-01-02,E78.5,"Hyperlipidemia, unspecified"
+ENC-00105,PT-5022,PRV-105,2025-09-05,E78.5,"Hyperlipidemia, unspecified"
+ENC-00106,PT-5014,PRV-106,2025-07-16,E11.9,Type 2 diabetes mellitus without complications
+ENC-00107,PT-5050,PRV-102,2025-12-06,M54.50,"Low back pain, unspecified"
+ENC-00108,PT-5006,PRV-107,2025-08-14,E11.9,Type 2 diabetes mellitus without complications
+ENC-00109,PT-5021,PRV-106,2025-05-16,J06.9,Acute upper respiratory infection
+ENC-00110,PT-5045,PRV-107,2025-11-17,E78.5,"Hyperlipidemia, unspecified"
+ENC-00111,PT-5027,PRV-101,2025-02-16,J06.9,Acute upper respiratory infection
+ENC-00112,PT-5050,PRV-100,2025-06-16,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00113,PT-5050,PRV-102,2025-12-16,I10,Essential (primary) hypertension
+ENC-00114,PT-5009,PRV-103,2025-10-26,M54.50,"Low back pain, unspecified"
+ENC-00115,PT-5057,PRV-104,2025-08-27,J06.9,Acute upper respiratory infection
+ENC-00116,PT-5027,PRV-104,2025-11-24,M54.50,"Low back pain, unspecified"
+ENC-00117,PT-5036,PRV-105,2025-07-15,E78.5,"Hyperlipidemia, unspecified"
+ENC-00118,PT-5025,PRV-104,2025-12-04,E11.9,Type 2 diabetes mellitus without complications
+ENC-00119,PT-5053,PRV-104,2025-09-12,I10,Essential (primary) hypertension
+ENC-00120,PT-5048,PRV-102,2025-12-14,J06.9,Acute upper respiratory infection
+ENC-00121,PT-5023,PRV-102,2025-10-24,E11.9,Type 2 diabetes mellitus without complications
+ENC-00122,PT-5056,PRV-105,2025-10-04,E78.5,"Hyperlipidemia, unspecified"
+ENC-00123,PT-5047,PRV-105,2025-06-01,E11.9,Type 2 diabetes mellitus without complications
+ENC-00124,PT-5046,PRV-106,2025-12-13,E78.5,"Hyperlipidemia, unspecified"
+ENC-00125,PT-5043,PRV-104,2025-07-08,E78.5,"Hyperlipidemia, unspecified"
+ENC-00126,PT-5039,PRV-105,2025-01-13,E78.5,"Hyperlipidemia, unspecified"
+ENC-00127,PT-5007,PRV-102,2025-07-29,E11.9,Type 2 diabetes mellitus without complications
+ENC-00128,PT-5024,PRV-107,2025-03-11,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00129,PT-5053,PRV-107,2025-02-20,E78.5,"Hyperlipidemia, unspecified"
+ENC-00130,PT-5028,PRV-103,2025-08-16,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00131,PT-5017,PRV-103,2025-07-23,E11.9,Type 2 diabetes mellitus without complications
+ENC-00132,PT-5015,PRV-102,2025-06-20,E78.5,"Hyperlipidemia, unspecified"
+ENC-00133,PT-5021,PRV-102,2025-04-30,E78.5,"Hyperlipidemia, unspecified"
+ENC-00134,PT-5007,PRV-100,2025-03-31,I10,Essential (primary) hypertension
+ENC-00135,PT-5003,PRV-102,2025-05-16,J06.9,Acute upper respiratory infection
+ENC-00136,PT-5032,PRV-101,2025-07-05,M54.50,"Low back pain, unspecified"
+ENC-00137,PT-5041,PRV-100,2025-08-23,E11.9,Type 2 diabetes mellitus without complications
+ENC-00138,PT-5004,PRV-101,2025-08-16,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00139,PT-5020,PRV-106,2025-12-31,E78.5,"Hyperlipidemia, unspecified"
+ENC-00140,PT-5007,PRV-103,2025-12-26,M54.50,"Low back pain, unspecified"
+ENC-00141,PT-5046,PRV-101,2025-08-01,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00142,PT-5004,PRV-101,2025-08-31,E11.9,Type 2 diabetes mellitus without complications
+ENC-00143,PT-5037,PRV-105,2025-01-31,J06.9,Acute upper respiratory infection
+ENC-00144,PT-5018,PRV-104,2025-01-27,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00145,PT-5022,PRV-105,2025-02-25,E11.9,Type 2 diabetes mellitus without complications
+ENC-00146,PT-5041,PRV-100,2025-12-12,E78.5,"Hyperlipidemia, unspecified"
+ENC-00147,PT-5011,PRV-102,2025-01-04,E78.5,"Hyperlipidemia, unspecified"
+ENC-00148,PT-5013,PRV-106,2025-09-29,M54.50,"Low back pain, unspecified"
+ENC-00149,PT-5038,PRV-101,2025-10-18,E11.9,Type 2 diabetes mellitus without complications
+ENC-00150,PT-5042,PRV-106,2025-08-15,M54.50,"Low back pain, unspecified"
+ENC-00151,PT-5027,PRV-101,2025-06-26,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00152,PT-5003,PRV-100,2025-11-03,I10,Essential (primary) hypertension
+ENC-00153,PT-5000,PRV-107,2025-03-03,J06.9,Acute upper respiratory infection
+ENC-00154,PT-5053,PRV-105,2025-10-14,E11.9,Type 2 diabetes mellitus without complications
+ENC-00155,PT-5036,PRV-106,2025-06-10,E78.5,"Hyperlipidemia, unspecified"
+ENC-00156,PT-5010,PRV-107,2025-06-16,J06.9,Acute upper respiratory infection
+ENC-00157,PT-5033,PRV-101,2025-07-25,M54.50,"Low back pain, unspecified"
+ENC-00158,PT-5040,PRV-101,2025-09-19,E78.5,"Hyperlipidemia, unspecified"
+ENC-00159,PT-5009,PRV-104,2025-02-22,I10,Essential (primary) hypertension
+ENC-00160,PT-5048,PRV-107,2025-10-16,J06.9,Acute upper respiratory infection
+ENC-00161,PT-5004,PRV-107,2025-08-14,M54.50,"Low back pain, unspecified"
+ENC-00162,PT-5029,PRV-107,2025-06-08,E11.9,Type 2 diabetes mellitus without complications
+ENC-00163,PT-5032,PRV-106,2025-11-01,M54.50,"Low back pain, unspecified"
+ENC-00164,PT-5041,PRV-103,2025-10-20,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00165,PT-5045,PRV-101,2025-06-25,E78.5,"Hyperlipidemia, unspecified"
+ENC-00166,PT-5058,PRV-104,2025-07-10,M54.50,"Low back pain, unspecified"
+ENC-00167,PT-5006,PRV-106,2025-06-18,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00168,PT-5021,PRV-101,2025-03-18,E78.5,"Hyperlipidemia, unspecified"
+ENC-00169,PT-5045,PRV-101,2025-11-01,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00170,PT-5042,PRV-106,2025-11-27,E78.5,"Hyperlipidemia, unspecified"
+ENC-00171,PT-5012,PRV-103,2025-09-06,I10,Essential (primary) hypertension
+ENC-00172,PT-5056,PRV-102,2025-06-22,E78.5,"Hyperlipidemia, unspecified"
+ENC-00173,PT-5046,PRV-107,2025-03-26,E11.9,Type 2 diabetes mellitus without complications
+ENC-00174,PT-5048,PRV-107,2025-05-26,I10,Essential (primary) hypertension
+ENC-00175,PT-5036,PRV-107,2025-12-14,M54.50,"Low back pain, unspecified"
+ENC-00176,PT-5051,PRV-102,2025-04-13,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00177,PT-5054,PRV-101,2025-09-22,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00178,PT-5005,PRV-103,2025-08-12,M54.50,"Low back pain, unspecified"
+ENC-00179,PT-5024,PRV-101,2025-05-01,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00180,PT-5018,PRV-107,2025-01-20,J06.9,Acute upper respiratory infection
+ENC-00181,PT-5016,PRV-103,2025-01-10,I10,Essential (primary) hypertension
+ENC-00182,PT-5015,PRV-104,2025-05-28,E11.9,Type 2 diabetes mellitus without complications
+ENC-00183,PT-5053,PRV-107,2025-02-26,E78.5,"Hyperlipidemia, unspecified"
+ENC-00184,PT-5000,PRV-105,2025-08-08,I10,Essential (primary) hypertension
+ENC-00185,PT-5033,PRV-100,2025-02-04,M54.50,"Low back pain, unspecified"
+ENC-00186,PT-5022,PRV-101,2025-01-09,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00187,PT-5008,PRV-100,2025-06-20,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00188,PT-5040,PRV-102,2025-09-03,I10,Essential (primary) hypertension
+ENC-00189,PT-5056,PRV-100,2025-04-13,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00190,PT-5012,PRV-104,2025-11-28,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00191,PT-5047,PRV-107,2025-07-24,M54.50,"Low back pain, unspecified"
+ENC-00192,PT-5017,PRV-101,2025-09-23,J06.9,Acute upper respiratory infection
+ENC-00193,PT-5005,PRV-105,2025-02-22,J06.9,Acute upper respiratory infection
+ENC-00194,PT-5022,PRV-107,2025-08-16,E11.9,Type 2 diabetes mellitus without complications
+ENC-00195,PT-5040,PRV-106,2025-12-10,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00196,PT-5043,PRV-107,2025-11-08,E11.9,Type 2 diabetes mellitus without complications
+ENC-00197,PT-5002,PRV-102,2025-10-18,J06.9,Acute upper respiratory infection
+ENC-00198,PT-5033,PRV-105,2025-03-12,M54.50,"Low back pain, unspecified"
+ENC-00199,PT-5031,PRV-106,2025-04-06,E78.5,"Hyperlipidemia, unspecified"
+ENC-00200,PT-5044,PRV-107,2025-05-27,I10,Essential (primary) hypertension
+ENC-00201,PT-5054,PRV-105,2025-12-16,J06.9,Acute upper respiratory infection
+ENC-00202,PT-5045,PRV-102,2025-03-22,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00203,PT-5001,PRV-105,2025-09-10,E78.5,"Hyperlipidemia, unspecified"
+ENC-00204,PT-5025,PRV-107,2025-06-08,E78.5,"Hyperlipidemia, unspecified"
+ENC-00205,PT-5028,PRV-107,2025-02-07,J06.9,Acute upper respiratory infection
+ENC-00206,PT-5027,PRV-100,2025-03-08,E11.9,Type 2 diabetes mellitus without complications
+ENC-00207,PT-5057,PRV-104,2025-09-23,E11.9,Type 2 diabetes mellitus without complications
+ENC-00208,PT-5005,PRV-102,2025-10-01,E78.5,"Hyperlipidemia, unspecified"
+ENC-00209,PT-5002,PRV-100,2025-10-16,E11.9,Type 2 diabetes mellitus without complications
+ENC-00210,PT-5026,PRV-100,2025-10-20,M54.50,"Low back pain, unspecified"
+ENC-00211,PT-5004,PRV-100,2025-08-21,I10,Essential (primary) hypertension
+ENC-00212,PT-5055,PRV-105,2025-06-10,J06.9,Acute upper respiratory infection
+ENC-00213,PT-5020,PRV-103,2025-02-24,M54.50,"Low back pain, unspecified"
+ENC-00214,PT-5055,PRV-106,2025-07-16,I10,Essential (primary) hypertension
+ENC-00215,PT-5031,PRV-107,2025-03-23,M54.50,"Low back pain, unspecified"
+ENC-00216,PT-5013,PRV-105,2025-05-04,E11.9,Type 2 diabetes mellitus without complications
+ENC-00217,PT-5000,PRV-101,2025-10-02,M54.50,"Low back pain, unspecified"
+ENC-00218,PT-5025,PRV-100,2025-01-24,E78.5,"Hyperlipidemia, unspecified"
+ENC-00219,PT-5048,PRV-104,2025-08-19,E78.5,"Hyperlipidemia, unspecified"
+ENC-00220,PT-5035,PRV-105,2025-06-23,I10,Essential (primary) hypertension
+ENC-00221,PT-5045,PRV-105,2025-03-12,M54.50,"Low back pain, unspecified"
+ENC-00222,PT-5020,PRV-102,2025-11-10,M54.50,"Low back pain, unspecified"
+ENC-00223,PT-5034,PRV-107,2025-09-18,J06.9,Acute upper respiratory infection
+ENC-00224,PT-5019,PRV-100,2025-10-26,E78.5,"Hyperlipidemia, unspecified"
+ENC-00225,PT-5046,PRV-100,2025-04-27,E78.5,"Hyperlipidemia, unspecified"
+ENC-00226,PT-5015,PRV-100,2025-12-15,E78.5,"Hyperlipidemia, unspecified"
+ENC-00227,PT-5013,PRV-106,2025-12-20,E78.5,"Hyperlipidemia, unspecified"
+ENC-00228,PT-5035,PRV-105,2025-04-17,J06.9,Acute upper respiratory infection
+ENC-00229,PT-5034,PRV-105,2025-06-25,J06.9,Acute upper respiratory infection
+ENC-00230,PT-5014,PRV-104,2025-06-02,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00231,PT-5018,PRV-101,2025-05-21,E78.5,"Hyperlipidemia, unspecified"
+ENC-00232,PT-5018,PRV-101,2025-01-22,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00233,PT-5017,PRV-104,2025-10-03,I10,Essential (primary) hypertension
+ENC-00234,PT-5014,PRV-103,2025-09-29,E11.9,Type 2 diabetes mellitus without complications
+ENC-00235,PT-5059,PRV-102,2025-10-09,M54.50,"Low back pain, unspecified"
+ENC-00236,PT-5041,PRV-100,2025-05-27,E11.9,Type 2 diabetes mellitus without complications
+ENC-00237,PT-5056,PRV-102,2025-08-02,E11.9,Type 2 diabetes mellitus without complications
+ENC-00238,PT-5019,PRV-101,2025-01-05,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00239,PT-5029,PRV-104,2025-09-16,I10,Essential (primary) hypertension
+ENC-00240,PT-5000,PRV-105,2025-04-06,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00241,PT-5032,PRV-105,2025-08-07,E11.9,Type 2 diabetes mellitus without complications
+ENC-00242,PT-5000,PRV-104,2025-05-08,M54.50,"Low back pain, unspecified"
+ENC-00243,PT-5000,PRV-104,2025-10-21,J06.9,Acute upper respiratory infection
+ENC-00244,PT-5025,PRV-104,2025-03-23,J06.9,Acute upper respiratory infection
+ENC-00245,PT-5030,PRV-102,2025-03-10,M54.50,"Low back pain, unspecified"
+ENC-00246,PT-5051,PRV-103,2025-10-03,I10,Essential (primary) hypertension
+ENC-00247,PT-5004,PRV-101,2025-07-05,E11.9,Type 2 diabetes mellitus without complications
+ENC-00248,PT-5054,PRV-107,2025-06-17,E11.9,Type 2 diabetes mellitus without complications
+ENC-00249,PT-5029,PRV-102,2025-01-29,E78.5,"Hyperlipidemia, unspecified"
+ENC-00250,PT-5025,PRV-104,2025-01-12,E11.9,Type 2 diabetes mellitus without complications
+ENC-00251,PT-5059,PRV-101,2025-01-31,M54.50,"Low back pain, unspecified"
+ENC-00252,PT-5028,PRV-106,2025-07-15,M54.50,"Low back pain, unspecified"
+ENC-00253,PT-5007,PRV-102,2025-06-28,E78.5,"Hyperlipidemia, unspecified"
+ENC-00254,PT-5019,PRV-107,2025-01-12,J06.9,Acute upper respiratory infection
+ENC-00255,PT-5009,PRV-104,2025-06-27,I10,Essential (primary) hypertension
+ENC-00256,PT-5004,PRV-101,2025-04-16,E78.5,"Hyperlipidemia, unspecified"
+ENC-00257,PT-5025,PRV-107,2025-01-23,I10,Essential (primary) hypertension
+ENC-00258,PT-5020,PRV-105,2025-10-22,I10,Essential (primary) hypertension
+ENC-00259,PT-5003,PRV-102,2025-05-21,J06.9,Acute upper respiratory infection
+ENC-00260,PT-5020,PRV-106,2025-09-26,M54.50,"Low back pain, unspecified"
+ENC-00261,PT-5019,PRV-102,2025-04-26,M54.50,"Low back pain, unspecified"
+ENC-00262,PT-5016,PRV-103,2025-05-05,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00263,PT-5024,PRV-100,2025-05-18,E11.9,Type 2 diabetes mellitus without complications
+ENC-00264,PT-5013,PRV-105,2025-09-03,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00265,PT-5058,PRV-103,2025-09-03,J06.9,Acute upper respiratory infection
+ENC-00266,PT-5024,PRV-107,2025-05-25,E78.5,"Hyperlipidemia, unspecified"
+ENC-00267,PT-5051,PRV-107,2025-02-20,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00268,PT-5001,PRV-104,2025-03-16,E78.5,"Hyperlipidemia, unspecified"
+ENC-00269,PT-5024,PRV-103,2025-04-28,M54.50,"Low back pain, unspecified"
+ENC-00270,PT-5047,PRV-107,2025-11-25,M54.50,"Low back pain, unspecified"
+ENC-00271,PT-5058,PRV-100,2025-04-05,E78.5,"Hyperlipidemia, unspecified"
+ENC-00272,PT-5026,PRV-102,2025-01-04,J06.9,Acute upper respiratory infection
+ENC-00273,PT-5039,PRV-107,2025-01-31,J06.9,Acute upper respiratory infection
+ENC-00274,PT-5046,PRV-104,2025-09-29,E78.5,"Hyperlipidemia, unspecified"
+ENC-00275,PT-5033,PRV-102,2025-02-19,I10,Essential (primary) hypertension
+ENC-00276,PT-5005,PRV-105,2025-07-23,M54.50,"Low back pain, unspecified"
+ENC-00277,PT-5048,PRV-100,2025-11-29,E11.9,Type 2 diabetes mellitus without complications
+ENC-00278,PT-5005,PRV-107,2025-03-29,M54.50,"Low back pain, unspecified"
+ENC-00279,PT-5057,PRV-107,2025-04-19,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00280,PT-5002,PRV-102,2025-12-03,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00281,PT-5010,PRV-103,2025-06-03,E78.5,"Hyperlipidemia, unspecified"
+ENC-00282,PT-5046,PRV-101,2025-12-19,E78.5,"Hyperlipidemia, unspecified"
+ENC-00283,PT-5038,PRV-106,2025-11-11,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00284,PT-5027,PRV-102,2025-07-12,J06.9,Acute upper respiratory infection
+ENC-00285,PT-5045,PRV-101,2025-05-07,E11.9,Type 2 diabetes mellitus without complications
+ENC-00286,PT-5020,PRV-105,2025-07-19,E11.9,Type 2 diabetes mellitus without complications
+ENC-00287,PT-5005,PRV-102,2025-03-09,M54.50,"Low back pain, unspecified"
+ENC-00288,PT-5035,PRV-101,2025-07-01,E78.5,"Hyperlipidemia, unspecified"
+ENC-00289,PT-5049,PRV-101,2025-07-18,J06.9,Acute upper respiratory infection
+ENC-00290,PT-5010,PRV-102,2025-07-14,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00291,PT-5019,PRV-107,2025-08-04,E11.9,Type 2 diabetes mellitus without complications
+ENC-00292,PT-5012,PRV-107,2025-11-12,E11.9,Type 2 diabetes mellitus without complications
+ENC-00293,PT-5028,PRV-105,2025-06-18,M54.50,"Low back pain, unspecified"
+ENC-00294,PT-5011,PRV-106,2025-06-10,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00295,PT-5020,PRV-106,2025-05-05,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00296,PT-5049,PRV-100,2025-12-16,J06.9,Acute upper respiratory infection
+ENC-00297,PT-5004,PRV-106,2025-12-21,J06.9,Acute upper respiratory infection
+ENC-00298,PT-5050,PRV-106,2025-08-05,E11.9,Type 2 diabetes mellitus without complications
+ENC-00299,PT-5026,PRV-100,2025-12-21,J45.30,"Mild persistent asthma, uncomplicated"
+ENC-00300,PT-5022,PRV-102,2025-12-07,J06.9,Acute upper respiratory infection
