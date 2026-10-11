@@ -102,6 +102,6 @@ ETL design (extract/transform/load separation) · dimensional modeling (star sch
 
 ## About
 
-Part of my healthcare analytics portfolio — built to apply the Google Business Intelligence certificate to the insurance-billing domain I know from years of healthcare IT support.
+Part of my healthcare analytics portfolio — built to apply my Google Data Analytics training to the insurance-billing domain I work with as a Member Services Representative on a health plan account.
 
 📫 elazarferrer1@gmail.com · [Profile](https://github.com/elazarf123)
